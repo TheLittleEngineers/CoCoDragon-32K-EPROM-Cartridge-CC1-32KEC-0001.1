@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/TLE/OneDrive/TheLittleEngineers_org-CoCoDragon-32K EPROM Cartridge/CC1-32KEC-0001.1/CC1-32KEC-0001.1.sch at 5/5/2019 11:44:16 AM
+
+Qty Value              Device             Parts   
+1   .1uF               CAPPTH2            C1      
+1   27C256             27256              IC1     
+1   AUTOSTART          JP1E               JP1     
+1   COCO_PROGRAM_PAK   COCO_PROGRAM_PAK   CN1     
+2   SPARKFUN_STAND-OFF SPARKFUN_STAND-OFF U$2, U$3
